@@ -1,0 +1,137 @@
+body{
+    font-family: 'Licorice', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+}
+.border{
+    border-width: 5px;
+    border-color: lightcoral;
+    border-left-style: solid;
+}
+.half-width{width: 50px;
+    padding-left: 100px;
+
+}
+.half-width img{
+    width: 40px;
+    padding-left: 100px;
+}
+
+h1{
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h2{
+    font-size: 40px;
+    padding-left: 5%;
+}
+.color{
+    color:rgb(235, 41, 176);
+}
+.flaxible-container{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+section{display: flex;}
+
+  .half-width{padding:5px;}
+.half-width{
+    width: 50%;
+    padding: 6%;
+    padding-bottom: 1px;
+}
+.half-width img{
+    width:70%;
+}
+.half-widt{
+    padding-top:1px
+    ;
+    padding-left: 25%;
+}
+.link-button{
+    color: white;
+    background-color: rgb(252, 125, 6);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px; 
+} 
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.Diame-big{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experinces-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.color-it{
+    color: rgb(162, 8, 201);
+}
+.Experinces-item{
+    background-color: rgba(167, 216, 245, 0.897);
+
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5px;
+    
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 5%;
+    
+}
+img{
+    width: 150px;
+
+ size-adjust: fixed;
+
+}
+.Experinces-tem{
+    background-color: rgb(201, 121, 148);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5px;
+    
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 5%;
+    
+}
+.Experinces-it{
+    background-color: rgba(124, 88, 165, 0.911);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5px;
+    
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 5%;
+    
+}
+section{
+    border-radius: 5%;
+
+}
+.half-width
+   img{border-radius: 5%;
+
+}
+footer {
+  text-align: center;
+  text-decoration-line: 10px;
+  height: 150px;
+  padding-top: 10px;
+  background-color: rgb(46, 34, 30);
+  color: white;
+}
